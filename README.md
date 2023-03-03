@@ -3,7 +3,7 @@
 ## by Chinelo Cynthia Ezenwafor
 
 
-![](Prosper.png)
+![](prosper.png)
 ***
 
 ## INTRODUCTION
